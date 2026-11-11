@@ -58,7 +58,7 @@ Ask Omnexus questions and receive summarized, spoken responses.
 
 ## 👨‍💻 About the Developer
 
-Hi! I'm **Nipu J. Tripathi**, a 13-year-old boy passionate about programming, Artificial Intelligence (AI), and Machine Learning (ML).
+Hi! I'm **Nipunj  Tripathi**, a 13-year-old boy passionate about programming, Artificial Intelligence (AI), and Machine Learning (ML).
 
 I love exploring new technologies, building projects, solving problems, and turning creative ideas into reality through code.
 
